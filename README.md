@@ -1,2 +1,2 @@
-# Practica-UML-UTEC
-Práctica de diagramas UML y control de versiones con GitHub
+# Equipo_5_LogiFlow360_AnalisisEstados
+ Práctica: Diagramas de Máquinas de Estado UML en StarUML
