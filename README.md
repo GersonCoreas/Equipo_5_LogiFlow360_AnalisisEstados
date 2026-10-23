@@ -8,6 +8,7 @@ Práctica: Diagramas de Máquinas de Estado UML en StarUML
 
 # Integrantes del Equipo
 Gerson Alberto Coreas Romero. 25-3162-2024
+
 Angie Michelle Valencia Ramos. 25-1961-2026
 
 # Estructura del Proyecto
@@ -16,22 +17,13 @@ Angie Michelle Valencia Ramos. 25-1961-2026
 
 
 # Casos Modelados
-OrdenDeCompra
-
-TransaccionDePago
-
-PaqueteFisico
-
-VehiculoDeReparto
-
-CasilleroInteligente
-
-TicketDeSoporte
-
-SolicitudDeDevolucion
-
-LoteDeInventario
-
-CuentaDeConductor
-
-DisputaBancaria
+-OrdenDeCompra
+-TransaccionDePago
+-PaqueteFisico
+-VehiculoDeReparto
+-CasilleroInteligente
+-TicketDeSoporte
+-SolicitudDeDevolucion
+-LoteDeInventario
+-CuentaDeConductor
+-DisputaBancaria
