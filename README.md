@@ -8,10 +8,7 @@ Práctica: Diagramas de Máquinas de Estado UML en StarUML
 
 # Integrantes del Equipo
 Gerson Alberto Coreas Romero. 25-3162-2024
-Alexa Nicole Marquez Fernandez. 17-3920-2025
-Juan Alberto Cisneros Ayala. 27-2794-2026
 Angie Michelle Valencia Ramos. 25-1961-2026
-Claudia Carolina Martínez Pérez. 25-1225-2025
 
 # Estructura del Proyecto
 - /docs: Documentación técnica, diccionario de clases y justificaciones UML.
