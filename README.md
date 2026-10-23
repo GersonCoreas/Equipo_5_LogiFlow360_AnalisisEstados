@@ -13,6 +13,8 @@ Angie Michelle Valencia Ramos. 25-1961-2026
 
 Alexa Nicole Marquez Fernandez. 17-3920-2025
 
+Claudia Carolina Martinez Perez. 25-1225-2025
+
 # Estructura del Proyecto
 - /docs: Documentación técnica, diccionario de clases y justificaciones UML.
 - /models: Archivos fuente .mdj de StarUML 
