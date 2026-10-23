@@ -1,0 +1,255 @@
+{
+  "_type": "Project",
+  "_id": "AAAAFF-59b2Ki4qJ6I=",
+  "name": "LogiFlow360",
+  "ownedElements": [
+    {
+      "_type": "UMLModel",
+      "_id": "AAAAFF636510Y42r2B4=",
+      "_parent": {
+        "$ref": "AAAAFF-59b2Ki4qJ6I="
+      },
+      "name": "Model",
+      "ownedElements": [
+        {
+          "_type": "UMLStateMachine",
+          "_id": "AAAAAAGV_Locker01=",
+          "_parent": {
+            "$ref": "AAAAFF636510Y42r2B4="
+          },
+          "name": "CasilleroInteligente",
+          "ownedElements": [
+            {
+              "_type": "UMLStatechartDiagram",
+              "_id": "AAAAAAGV_LockerDiag01=",
+              "_parent": {
+                "$ref": "AAAAAAGV_Locker01="
+              },
+              "name": "Diagrama_CasilleroInteligente",
+              "ownedViews": [
+                {
+                  "_type": "UMLPseudostateView",
+                  "_id": "AAAAAAGV_LockerInitV=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerDiag01="
+                  },
+                  "model": {
+                    "$ref": "AAAAAAGV_LockerInit="
+                  },
+                  "font": "Arial;13;0",
+                  "left": 100,
+                  "top": 40,
+                  "width": 20,
+                  "height": 20
+                },
+                {
+                  "_type": "UMLStateView",
+                  "_id": "AAAAAAGV_LockerSt1V=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerDiag01="
+                  },
+                  "model": {
+                    "$ref": "AAAAAAGV_LockerSt1="
+                  },
+                  "font": "Arial;13;0",
+                  "left": 180,
+                  "top": 30,
+                  "width": 200,
+                  "height": 45
+                },
+                {
+                  "_type": "UMLStateView",
+                  "_id": "AAAAAAGV_LockerSt2V=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerDiag01="
+                  },
+                  "model": {
+                    "$ref": "AAAAAAGV_LockerSt2="
+                  },
+                  "font": "Arial;13;0",
+                  "left": 180,
+                  "top": 120,
+                  "width": 200,
+                  "height": 45
+                },
+                {
+                  "_type": "UMLStateView",
+                  "_id": "AAAAAAGV_LockerSt3V=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerDiag01="
+                  },
+                  "model": {
+                    "$ref": "AAAAAAGV_LockerSt3="
+                  },
+                  "font": "Arial;13;0",
+                  "left": 180,
+                  "top": 210,
+                  "width": 200,
+                  "height": 45
+                },
+                {
+                  "_type": "UMLStateView",
+                  "_id": "AAAAAAGV_LockerSt4V=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerDiag01="
+                  },
+                  "model": {
+                    "$ref": "AAAAAAGV_LockerSt4="
+                  },
+                  "font": "Arial;13;0",
+                  "left": 180,
+                  "top": 300,
+                  "width": 220,
+                  "height": 45
+                },
+                {
+                  "_type": "UMLStateView",
+                  "_id": "AAAAAAGV_LockerSt5V=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerDiag01="
+                  },
+                  "model": {
+                    "$ref": "AAAAAAGV_LockerSt5="
+                  },
+                  "font": "Arial;13;0",
+                  "left": 180,
+                  "top": 390,
+                  "width": 200,
+                  "height": 45
+                },
+                {
+                  "_type": "UMLStateView",
+                  "_id": "AAAAAAGV_LockerSt6V=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerDiag01="
+                  },
+                  "model": {
+                    "$ref": "AAAAAAGV_LockerSt6="
+                  },
+                  "font": "Arial;13;0",
+                  "left": 480,
+                  "top": 300,
+                  "width": 220,
+                  "height": 45
+                },
+                {
+                  "_type": "UMLStateView",
+                  "_id": "AAAAAAGV_LockerSt7V=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerDiag01="
+                  },
+                  "model": {
+                    "$ref": "AAAAAAGV_LockerSt7="
+                  },
+                  "font": "Arial;13;0",
+                  "left": 480,
+                  "top": 120,
+                  "width": 220,
+                  "height": 45
+                },
+                {
+                  "_type": "UMLStateView",
+                  "_id": "AAAAAAGV_LockerSt8V=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerDiag01="
+                  },
+                  "model": {
+                    "$ref": "AAAAAAGV_LockerSt8="
+                  },
+                  "font": "Arial;13;0",
+                  "left": 480,
+                  "top": 210,
+                  "width": 220,
+                  "height": 45
+                }
+              ]
+            }
+          ],
+          "regions": [
+            {
+              "_type": "UMLRegion",
+              "_id": "AAAAAAGV_LockerReg01=",
+              "_parent": {
+                "$ref": "AAAAAAGV_Locker01="
+              },
+              "vertices": [
+                {
+                  "_type": "UMLPseudostate",
+                  "_id": "AAAAAAGV_LockerInit=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerReg01="
+                  },
+                  "kind": "initial"
+                },
+                {
+                  "_type": "UMLState",
+                  "_id": "AAAAAAGV_LockerSt1=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerReg01="
+                  },
+                  "name": "Vacio_Disponible"
+                },
+                {
+                  "_type": "UMLState",
+                  "_id": "AAAAAAGV_LockerSt2=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerReg01="
+                  },
+                  "name": "Reservado_Para_Entrega"
+                },
+                {
+                  "_type": "UMLState",
+                  "_id": "AAAAAAGV_LockerSt3=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerReg01="
+                  },
+                  "name": "Puerta_Abierta_Cargando"
+                },
+                {
+                  "_type": "UMLState",
+                  "_id": "AAAAAAGV_LockerSt4=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerReg01="
+                  },
+                  "name": "Ocupado_Esperando_Retiro_Cliente"
+                },
+                {
+                  "_type": "UMLState",
+                  "_id": "AAAAAAGV_LockerSt5=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerReg01="
+                  },
+                  "name": "Puerta_Abierta_Retirando"
+                },
+                {
+                  "_type": "UMLState",
+                  "_id": "AAAAAAGV_LockerSt6=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerReg01="
+                  },
+                  "name": "Vencido_Pendiente_Recoleccion"
+                },
+                {
+                  "_type": "UMLState",
+                  "_id": "AAAAAAGV_LockerSt7=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerReg01="
+                  },
+                  "name": "Alarma_Violacion_Seguridad"
+                },
+                {
+                  "_type": "UMLState",
+                  "_id": "AAAAAAGV_LockerSt8=",
+                  "_parent": {
+                    "$ref": "AAAAAAGV_LockerReg01="
+                  },
+                  "name": "Fuera_De_Servicio_Mantenimiento"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
